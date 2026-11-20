@@ -31,7 +31,10 @@ SECRET PHRASE (must appear on the app page): ISOM5160-HW2-SMS
 #
 # GenAI acknowledgment (required if you used GenAI; otherwise write "None"):
 #   - Tools used: Claude Opus 5.5
-#   - How you used them: 
+#   - How you used them: I used Claude to help me understand the requirements 
+#     of the homework and to clarify how to implement certain functions in the
+#     Streamlit app. I also asked for guidance on how to structure the code and
+#     ensure that it met the specifications provided in the assignment.
 #
 # Q1. Who is the primary business user of this app?
 #     (one short sentence; e.g., an employee or a security analyst reviewing
